@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Product.Persistence</name>
+    </assembly>
+    <members>
+        <member name="M:Product.Persistence.Controllers.ProductController.Get(System.Int32)">
+            <summary>
+            Get list of product by id
+            </summary>
+            <remarks>
+            Get list of product by id
+            </remarks>
+        </member>
+        <member name="M:Product.Persistence.Controllers.ProductController.Get">
+            <summary>
+            Get list of products
+            </summary>
+            <remarks>
+            Get list of products
+            </remarks>
+        </member>
+        <member name="M:Product.Persistence.Controllers.ProductController.Post(Product.Persistence.Models.ProductDTO)">
+            <summary>
+            Create a product
+            </summary>
+            <remarks>
+            Create a product
+            </remarks>    
+        </member>
+        <member name="M:Product.Persistence.Controllers.ProductController.Put(Product.Persistence.Models.ProductDTO)">
+            <summary>
+            Update a product
+            </summary>
+            <remarks>
+            Update a product
+            </remarks>
+        </member>
+        <member name="M:Product.Persistence.Controllers.ProductController.Delete(System.Int32)">
+            <summary>
+            Delete a product
+            </summary>
+            <remarks>
+            Delete a product
+            </remarks>
+        </member>
+    </members>
+</doc>

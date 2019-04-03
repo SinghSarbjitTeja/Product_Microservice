@@ -1,0 +1,14 @@
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\bin\Debug\netcoreapp2.1\Code_Challenge.deps.json
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\bin\Debug\netcoreapp2.1\Code_Challenge.runtimeconfig.json
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\bin\Debug\netcoreapp2.1\Code_Challenge.runtimeconfig.dev.json
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\bin\Debug\netcoreapp2.1\Code_Challenge.dll
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.csprojAssemblyReference.cache
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.RazorAssemblyInfo.cache
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.RazorAssemblyInfo.cs
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.AssemblyInfoInputs.cache
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.AssemblyInfo.cs
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.RazorTargetAssemblyInfo.cache
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\bin\Debug\netcoreapp2.1\Code_Challenge.pdb
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.dll
+C:\Users\sarbjit\source\repos\Code_Challenge\Code_Challenge\obj\Debug\netcoreapp2.1\Code_Challenge.pdb
