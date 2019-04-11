@@ -1,0 +1,16 @@
+version: "3"
+
+networks:
+  default:
+    external:
+      name: nat
+
+services:
+  codechallenge.api:
+    image: sarbjitteja/codechallenge
+    ports:
+      - "5000:5000"
+  codechallenge.web:
+    image: sarbjitteja/codechallenge.web
+    ports:
+      - "53535:53535"
